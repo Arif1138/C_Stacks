@@ -13,4 +13,4 @@ It demonstrates the LIFO (Last-In-First-Out) principle using standard operations
 1. Compile the source code using a C compiler (e.g., GCC):
    gcc stacks.c -o stacks
 2. Run the compiled executable:
-   ./stacks
+   ./stacks.c
